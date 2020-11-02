@@ -1,6 +1,6 @@
 ### Hey it's Mustafa here👋
 Coder||Blogger||Speaker
-<td>Conversationalist||NightOwl||Social<\td>
+<td>Conversationalist||NightOwl||Social</td>
 <table>
   <tr>
     <td>You are visitor</td>
