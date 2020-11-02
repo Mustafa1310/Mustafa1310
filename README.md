@@ -1,6 +1,5 @@
 ### Hey it's Mustafa here👋
-Coder||Blogger||Speaker
-<td>Conversationalist||NightOwl||Social</td>
+
 
 <td>
 
