@@ -9,7 +9,7 @@
   
 - 🔭 My favoured programming languages are <b>C++,Python ,JS</b>
 - 🌱 I’m currently learning <b>Data Structures</b>
-- 🤔 I’m looking for help in <b>Competitive Programming</b>0
+- 🤔 I’m looking for help in <b>Competitive Programming</b>
 - 💬 I love meeting and connecting with new people so <b>let's connect</b>
 
 ### Connect with me!
