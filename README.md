@@ -1,4 +1,5 @@
 ### Hey it's Mustafa here👋
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 <td>
@@ -11,6 +12,7 @@
 - 🌱 I’m currently learning <b>Data Structures</b>
 - 🤔 I’m looking for help in <b>Competitive Programming</b>
 - 💬 I love meeting and connecting with new people so <b>let's connect</b>
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ### Connect with me!
 <p align="left">
