@@ -14,8 +14,6 @@
 - 💬 I love meeting and connecting with new people so <b>let's connect</b>
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Mustafa1310&hide=php&theme=radical">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Mustafa1310&hide=php&theme=radical" /><br>
 
 ### Connect with me!
 <p align="left">
