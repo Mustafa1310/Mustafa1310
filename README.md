@@ -11,6 +11,7 @@
 - 🔭 My favoured programming languages are <b>C++,Python ,JS</b>
 - 🌱 I’m currently learning <b>Data Structures</b>
 - 🤔 I’m looking for help in <b>Competitive Programming</b>
+- Planning to move forward with <b>Masters</b>
 - 💬 I love meeting and connecting with new people so <b>let's connect</b>
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
